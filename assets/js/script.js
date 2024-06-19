@@ -131,5 +131,5 @@ function saveTasks() {
 $(document).ready(function () {
     renderTaskList();
     $("#taskForm").on("submit", handleAddTask);
-    $("#taskDeadline").datepicker();
+    // $("#taskDeadline").datepicker();
 });
