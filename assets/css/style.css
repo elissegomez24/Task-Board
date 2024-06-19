@@ -1,0 +1,33 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.swim-lanes {
+  min-height: 60vh;
+}
+
+.task-card {
+  margin: 0 auto;
+}
+
+.task-card:hover {
+  cursor: grab;
+}
+
+.task-card.late {
+  background-color: var(--lightred);
+}
+
+.task-card.today {
+  background-color: var(--lightyellow);
+}
+
+.task-card.dragging {
+  opacity: 0.6;
+}
+
+.btn {
+  border-color: white;
+}
+
