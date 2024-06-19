@@ -28,6 +28,8 @@ This project implements a Kanban board for managing tasks through different stag
 
 ## Deployed Application 
 
+https://elissegomez24.github.io/Task-Board/ 
+
 ## License
 This project is licensed under the [MIT LICENSE](LICENSE). 
 
